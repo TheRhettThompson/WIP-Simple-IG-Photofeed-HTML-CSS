@@ -1,0 +1,51 @@
+body{
+    background: gray;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+
+header{
+    background: white;
+    text-align: center;
+    padding: 5px;
+}
+
+header h1{
+    margin: 0;
+}
+
+div.photofeed-firstphoto{
+    background: white;
+    width: 100%;
+}
+
+div.photofeed-firstphoto img{
+    width: 100%;
+}
+
+div.container{
+    width: 600px;
+    margin: auto;
+}
+
+div.photofeed-somecutething{
+    background: white;
+    width: 100%;
+}
+
+div.photofeed-computer{
+    background: white;
+    width: 100%;
+}
+ 
+div.photofeed-food{
+    background: white;
+    width: 100%;
+}
+
+
